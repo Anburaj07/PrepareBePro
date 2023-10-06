@@ -6,6 +6,8 @@ import { Link } from "react-router-dom";
 
 export const Navbar: React.FC = () => {
   const [isDarkMode, setIsDarkMode] = useState<boolean>(false);
+  const name=localStorage.getItem('name')
+  console.log('name:', name)
 
   const toggleTheme = () => {
     setIsDarkMode((prev) => !prev);
@@ -18,7 +20,6 @@ export const Navbar: React.FC = () => {
       document.body.classList.add("dark");
       document.body.classList.remove("light");
     }
-    // document.documentElement.classList.toggle("dark");
   };
 
   return (
@@ -33,7 +34,8 @@ export const Navbar: React.FC = () => {
         {/* Use the imported logo */}
       </div>
       </Link>
-      <div>
+      <div className="flex ">
+      {name && <h2 className="text-xl font-bold">Welcome {name}</h2>}
         <button className="px-2 py-1 rounded" onClick={toggleTheme}>
           {isDarkMode ? <FiSun size={18} /> : <FiMoon size={18} />}
         </button>
