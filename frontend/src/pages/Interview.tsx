@@ -65,7 +65,7 @@ const Interview = () => {
 
 
             const getQues = () => {
-                setLoading(true);
+                setLoading(false);
                 axios
                     .get<string>(`http://localhost:8080/mind/${track}`)
                     .then((res:any) => {

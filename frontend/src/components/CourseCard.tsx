@@ -10,7 +10,7 @@ const CourseCard = ({ title, description,image}:{
         navigate(`/role/${title}`)
     }
   return (
-    <div className='shadow-lg text-center bg-white rounded p-4' onClick={handleClick}>
+    <div className='shadow-lg text-center bg-white rounded-lg p-4' onClick={handleClick}>
       <div className='flex items-center justify-center p-5'>
       <img className=' h-40' src={image} alt="" />
       {/* border border-gray-300 */}
