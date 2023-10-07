@@ -16,7 +16,7 @@ const HomePage = () => {
         // Save name and email in local storage
         localStorage.setItem("name", name);
         localStorage.setItem("email", email);
-        navigate("/coursediv");
+        navigate("/roles");
       }
     };
   return (

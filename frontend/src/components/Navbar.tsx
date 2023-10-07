@@ -30,12 +30,12 @@ export const Navbar: React.FC = () => {
     >
       <Link to={'/'}>
       <div className="text-xl font-bold flex justify-center items-center">
-        <img className="w-80" src={logo} alt="Logo" />{" "}
+        <img className="w-40 md:w-40 lg:w-60" src={logo} alt="Logo" />{" "}
         {/* Use the imported logo */}
       </div>
       </Link>
-      <div className="flex ">
-      {name && <h2 className="text-xl font-bold">Welcome {name}</h2>}
+      <div className="flex items-center">
+      {name && <h2 className="text-xl font-bold">{name}</h2>}
         <button className="px-2 py-1 rounded" onClick={toggleTheme}>
           {isDarkMode ? <FiSun size={18} /> : <FiMoon size={18} />}
         </button>
