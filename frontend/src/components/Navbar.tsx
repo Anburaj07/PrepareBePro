@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { FiSun, FiMoon } from "react-icons/fi";
 import logo from "../images/logo.png"
 import { Link } from "react-router-dom";
-// frontend\src\images\logo.PNG
 
 export const Navbar: React.FC = () => {
   const [isDarkMode, setIsDarkMode] = useState<boolean>(false);
