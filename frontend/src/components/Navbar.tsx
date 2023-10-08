@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FiSun, FiMoon } from "react-icons/fi";
-import logo from "../images/logo.png"
+import logo from "../images/logo.jpg"
 import { Link } from "react-router-dom";
 
 export const Navbar: React.FC = () => {
