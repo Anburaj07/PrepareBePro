@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FiSun, FiMoon } from "react-icons/fi";
-import logo from "../images/buddy1.png"
+import logo from "../images/logo.png"
 import { Link } from "react-router-dom";
 // frontend\src\images\logo.PNG
 
@@ -30,7 +30,7 @@ export const Navbar: React.FC = () => {
     >
       <Link to={'/'}>
       <div className="text-xl font-bold flex justify-center items-center">
-        <img className="w-40 md:w-40 lg:w-60" src={logo} alt="Logo" />{" "}
+        <img className="w-40 md:w-40 lg:w-60 rounded-lg" src={logo} alt="Logo" />{" "}
         {/* Use the imported logo */}
       </div>
       </Link>

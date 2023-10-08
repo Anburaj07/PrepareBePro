@@ -3,7 +3,7 @@ const Footer = () => {
     return (
         <footer className="bg-[#5d8de9] text-white py-4 ">
           <div className="container mx-auto flex flex-col items-center justify-center">
-            <div className="text-2xl font-semibold mb-4">Interview Buddy</div>
+            <div className="text-2xl font-semibold mb-4">PrepareBePro</div>
             <ul className="flex space-x-4">
               <li><a href="#">Home</a></li>
               <li><a href="#">About Us</a></li>
@@ -11,7 +11,7 @@ const Footer = () => {
               <li><a href="#">Contact</a></li>
             </ul>
             <div className="mt-2">
-              <p>&copy; {new Date().getFullYear()} Interview Buddy</p>
+              <p>&copy; {new Date().getFullYear()} PrepareBePro</p>
             </div>
           </div>
         </footer>
