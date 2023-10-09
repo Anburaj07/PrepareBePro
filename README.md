@@ -53,18 +53,17 @@ We welcome contributions to enhance the question bank, improve the user interfac
 
 ## Feedback
 
-Your feedback is invaluable to us! If you have suggestions, encounter issues, or want to contribute, please don't hesitate to [open an issue](https://github.com/your-username/interview-ace/issues).
+Your feedback is invaluable to us! If you have suggestions, encounter issues, or want to contribute, please don't hesitate to [open an issue](https://github.com/Anburaj07/ByteWave).
 
 ## Contributors
 
-- [Anubraj](https://github.com/your-username)
-- [Shweta](https://github.com/contributor-username)
-- [Wasim](https://github.com/contributor-username)
+- [Anubraj](https://github.com/Anburaj07)
+- [Shweta](https://github.com/Shwetakumari9555)
+- [Wasim](https://github.com/Wasim901)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [ByteWave](LICENSE) file for details.
 
 ---
 
-Feel free to replace the placeholders with actual content, including the project logo and any additional details specific to your project.
