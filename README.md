@@ -59,8 +59,9 @@ Your feedback is invaluable to us! If you have suggestions, encounter issues, or
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Contributor Name](https://github.com/contributor-username)
+- [Anubraj](https://github.com/your-username)
+- [Shweta](https://github.com/contributor-username)
+- [Wasim](https://github.com/contributor-username)
 
 ## License
 
