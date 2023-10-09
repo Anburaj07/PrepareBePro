@@ -47,6 +47,14 @@ To get started with Interview Ace, follow these steps:
 3. Receive valuable feedback to improve your responses.
 4. Track your progress and monitor your performance.
 
+##Images 
+
+![Sample image](insert__image_url_here)
+
+![Sample image](insert__image_url_here)
+
+![Sample image](insert__image_url_here)
+
 ## Contributions
 
 We welcome contributions to enhance the question bank, improve the user interface, or add support for additional programming languages.
