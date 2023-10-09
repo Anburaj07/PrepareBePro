@@ -16,7 +16,7 @@ const CourseCard = ({ title, description,image}:{
       {/* border border-gray-300 */}
       </div>
       <h2 className='text-[#5d8de9] md:text-3xl sm:text-2xl text-1xl font-bold'>{title}</h2>
-      <p>{description}</p>
+      <p className='p-4'>{description}</p>
     </div>
   )
 }

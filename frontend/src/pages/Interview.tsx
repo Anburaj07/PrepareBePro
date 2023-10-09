@@ -28,7 +28,7 @@ const Interview = () => {
     });
     
     const [isLoading, setLoading] = useState<boolean>(false);
-    const [isAnswerValid, setIsAnswerValid] = useState<boolean>(false);
+    const [isAnswerValid, setIsAnswerValid] = useState<boolean>(true);
     const [question, setQuestion] = useState<string>("");
     const [feedback, setFeedback] = useState<boolean>(false);
     const [provideFeedback, setProvideFeedback] = useState<string>("");
@@ -68,7 +68,14 @@ const Interview = () => {
 
                 setLoading(true);
 
-                    let ques=`Imagine you are conducting an interview for a ${field} developer position at a leading tech company.As the interviewer your goal is to assess the candidates technical expertise, problem-solving skills,and alignment with the role of ${field}  developer it is a tech interview round. Please take a set of five questions will be displayed—insightful and open-ended questions that you would ask the candidate during the interview. The levels of the questions will be ${level}. Your questions should cover topics such as coding practices, system design, and relevant technologies.Format the questions as a list in JavaScript-friendly string format, with each question separated by \n. Start with asking questions`
+                    let ques=`Imagine you are conducting an interview for a ${field} developer position at a leading tech company.As the interviewer your goal is to assess the candidates technical expertise, problem-solving skills,and alignment with the role of ${field}  developer it is a tech interview round. Please take a set of two questions will be displayed—insightful and open-ended questions that you would ask the candidate during the interview. The levels of the questions will be ${level}. Your questions should cover topics such as coding practices, system design, and relevant technologies.
+                    Format the questions as a list in JavaScript-friendly string format, with each question separated by \"\\n\".
+                    "Output format" +
+                        "first question\"\n" +
+                        "second question\"\n" +
+                        "third question\"\n" +
+                        "and so on...."
+                    `
 
                 // console.log(ques)
                 const encodedText = encodeURIComponent(ques);
@@ -193,11 +200,11 @@ const Interview = () => {
             <div className="box-sizing-border-box mb-4 bg-[#849fd2] text-start p-6 w-[90%] rounded-xl shadow-md">
             <h2 className="text-white text-center text-xl sm:text-3xl md:text-4xl font-bold">Feedback</h2>
                 {provideFeedback.length === 0 ? (
-            <img
-                    className="w-[100%] p-10 mx-auto"
-                    src="https://media4.giphy.com/media/1ibfRD75ZMtDG/giphy.gif?cid=ecf05e477c55u48nj1fj9vi0pzoukfulon52ugdwqbwvllzo&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-                    alt=""
-            />
+            // <img                    className="w-[100%] p-10 mx-auto"
+            //         src="https://media4.giphy.com/media/1ibfRD75ZMtDG/giphy.gif?cid=ecf05e477c55u48nj1fj9vi0pzoukfulon52ugdwqbwvllzo&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+            //         alt=""
+            // />
+            <Loader/>
                 ) : (
             <div className="text-white">
                     <h2 className="md:text-2xl sm:text-xl text-lg font-bold p-2">
@@ -219,7 +226,7 @@ const Interview = () => {
                 )}
         </div>
             ) : (
-        <div className="bg-[#608fe6] text-start p-6 w-[90%] md:w-[70%] mx-auto rounded-xl shadow-md space-x-4">
+        <div className="bg-[#608fe6] text-start p-6 w-[90%] md:w-[70%] mx-auto rounded-xl shadow-md space-x-4 border border-blue-500 m-32">
                 <div className="h-[100%]">
             <h2 className="text-white text-sm font-bold md:text-lg">
                     Question {questionsArray[state.questionIndex]}
