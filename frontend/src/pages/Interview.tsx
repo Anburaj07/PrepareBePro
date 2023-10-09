@@ -68,13 +68,11 @@ const Interview = () => {
 
                 setLoading(true);
 
-                    let ques=`Imagine you are conducting an interview for a ${field} developer position at a leading tech company.As the interviewer your goal is to assess the candidates technical expertise, problem-solving skills,and alignment with the role of ${field}  developer it is a tech interview round. Please take a set of two questions will be displayed—insightful and open-ended questions that you would ask the candidate during the interview. The levels of the questions will be ${level}. Your questions should cover topics such as coding practices, system design, and relevant technologies.
-                    Format the questions as a list in JavaScript-friendly string format, with each question separated by \"\\n\".
-                    "Output format" +
+                    let ques=`Imagine you are conducting an interview for a ${field} developer position at a leading tech company.As the interviewer your goal is to assess the candidates technical expertise, problem-solving skills,and alignment with the role of ${field}  developer it is a tech interview round. Please take a set of only two questions will be displayed—insightful and open-ended questions that you would ask the candidate during the interview. The levels of the questions will be ${level}. Your questions should cover topics such as coding practices, system design, and relevant technologies.
+                    Format the questions as a list in JavaScript-friendly string format, with each question separated by \"\n\".
+                    "Output format should be" +
                         "first question\"\n" +
-                        "second question\"\n" +
-                        "third question\"\n" +
-                        "and so on...."
+                        "second question\"\n" 
                     `
 
                 // console.log(ques)
