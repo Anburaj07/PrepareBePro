@@ -107,5 +107,20 @@ Your feedback is invaluable to us! If you have suggestions, encounter issues, or
 
 This project is licensed under the MIT License. See the [ByteWave](LICENSE) file for details.
 
+## Request  🤗
+<div>
+<li>If You find any bug then please create an issue we love to solve that</li>
+<li>If you want to contribute to this project then feel free to make a pull request we love to merge your request</li>
+<li>If You have suggestions or want a new feature feel free to create an issue with label features.</li>
+ </div>
+   
+  <div align="center">
+   <h4>  If you like the project then feel free to give Star 😅</h4>
+   </div>
+  
+ ## Feedback / Contributing 🤝
+ > Contributions are always welcome! Just raise an issue, and we will discuss it.
+  > If you have any feedback, please reach out to us <a href="mailto: anburaj2203@gmail.com">prepareByPro</a>
+
 ---
 
