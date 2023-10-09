@@ -99,7 +99,7 @@ Your feedback is invaluable to us! If you have suggestions, encounter issues, or
 
 ## Contributors
 
-- [Anubraj](https://github.com/Anburaj07)
+- [Anburaj](https://github.com/Anburaj07)
 - [Shweta](https://github.com/Shwetakumari9555)
 - [Wasim](https://github.com/Wasim901)
 
