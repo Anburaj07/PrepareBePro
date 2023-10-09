@@ -34,7 +34,7 @@ export const CourseDiv = () => {
               <div className="mb-6 justify-center items-center ml-8">
                 <button
                   className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                  onClick={() => handleGetStartedClick("Node JS", "Low Level")}
+                  onClick={() => handleGetStartedClick("Node JS", "Low")}
                 >
                   Get Started Low Level →
                 </button>
@@ -43,7 +43,7 @@ export const CourseDiv = () => {
               <div className="mb-6 justify-center items-center ml-8">
                 <button
                   className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                  onClick={() => handleGetStartedClick("Node JS", "Medium Level")}
+                  onClick={() => handleGetStartedClick("Node JS", "Medium")}
                 >
                   Get Started Medium Level →
                 </button>
@@ -52,7 +52,7 @@ export const CourseDiv = () => {
               <div className="mb-6 justify-center items-center ml-8">
                 <button
                   className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                  onClick={() => handleGetStartedClick("Node JS", "Hard Level")}
+                  onClick={() => handleGetStartedClick("Node JS", "Hard")}
                 >
                   Get Started Hard Level →
                 </button>
@@ -76,7 +76,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("JAVA", "Low Level")}
+                    onClick={() => handleGetStartedClick("JAVA", "Low")}
                   >
                     Get Started Low Level →
                   </button>
@@ -85,7 +85,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("JAVA", "Medium Level")}
+                    onClick={() => handleGetStartedClick("JAVA", "Medium")}
                   >
                     Get Started Medium Level →
                   </button>
@@ -94,7 +94,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("JAVA", "Hard Level")}
+                    onClick={() => handleGetStartedClick("JAVA", "Hard")}
                   >
                     Get Started Hard Level →
                   </button>
@@ -118,7 +118,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("MERN", "Low Level")}
+                    onClick={() => handleGetStartedClick("MERN", "Low")}
                   >
                     Get Started Low Level →
                   </button>
@@ -127,7 +127,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("MERN", "Medium Level")}
+                    onClick={() => handleGetStartedClick("MERN", "Medium")}
                   >
                     Get Started Medium Level →
                   </button>
@@ -136,7 +136,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("MERN", "Hard Level")}
+                    onClick={() => handleGetStartedClick("MERN", "Hard")}
                   >
                     Get Started Hard Level →
                   </button>
@@ -159,7 +159,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("DSA", "Low Level")}
+                    onClick={() => handleGetStartedClick("DSA", "Low")}
                   >
                     Get Started Low Level →
                   </button>
@@ -168,7 +168,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("DSA", "Medium Level")}
+                    onClick={() => handleGetStartedClick("DSA", "Medium")}
                   >
                     Get Started Medium Level →
                   </button>
@@ -177,7 +177,7 @@ export const CourseDiv = () => {
                 <div className="mb-6 justify-center items-center ml-8">
                   <button
                     className="bg-blue-500 text-red py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300 border border-blue-500 transform h-10 bg-blue-400 w-60 transition duration-500 hover:scale-125 hover:bg-blue-600 flex justify-center items-center ml-10"
-                    onClick={() => handleGetStartedClick("DSA", "Hard Level")}
+                    onClick={() => handleGetStartedClick("DSA", "Hard")}
                   >
                     Get Started Hard Level →
                   </button>
