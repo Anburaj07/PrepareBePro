@@ -1,6 +1,4 @@
-Certainly, here's a basic template for a README file for your project:
 
----
 
 # Prepare By Pro - Your Path to Interview Success
 
