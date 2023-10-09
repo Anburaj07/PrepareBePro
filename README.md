@@ -1,12 +1,32 @@
 
+<div align="center">
+       
+ <h2>Prepare By Pro - Your Path to Interview Success</h2>
 
-# Prepare By Pro - Your Path to Interview Success
+ </div>
+ 
+ ##
 
-![Project Logo](insert_logo_image_url_here)
+<div align="center">
+
+ <h3>logo :"PrepareByPro"</h3>
+
+<img width="200" height="100" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/2a338dc9-f204-4d3e-bf7b-dfe977c65122"> 
+<!-- ![logo]() -->
+
+ 
+ ## 🌐 Deployed Link : https://byte-wave-sand.vercel.app/
+ 
+
+ </div>
 
 ## Overview
 
-Interview Ace is a comprehensive project aimed at helping students ace their interviews. Whether you're preparing for technical interviews in software engineering or looking to excel in interviews for IT positions, this project provides a wealth of interview questions and valuable feedback to enhance your skills.
+Welcome to <b>Prepare By Pro</b> – Your Ultimate Interview Success Partner!
+
+Embark on a journey to ace your interviews with Prepare By Pro, a comprehensive project dedicated to elevating your interview preparation experience. Whether you're gearing up for technical interviews in software engineering or aiming to excel in IT positions, our platform is your go-to resource for a wealth of interview questions and invaluable feedback to sharpen your skills.
+
+Navigate our user-friendly interface effortlessly, where you'll find a treasure trove of curated interview questions and expert guidance. Our project is designed to cater to the diverse needs of aspiring candidates, providing a one-stop solution for honing interview skills and boosting confidence.
 
 ## Features
 
@@ -47,13 +67,27 @@ To get started with Interview Ace, follow these steps:
 3. Receive valuable feedback to improve your responses.
 4. Track your progress and monitor your performance.
 
-##Images 
+# Different Pages of Website
+### Homepage
+<img width="950" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/82c8efdd-5a51-423b-9609-761f1a03275c">
 
-![Sample image](insert__image_url_here)
 
-![Sample image](insert__image_url_here)
+### Course page
+<img width="950" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/f3ac1c1f-58d8-4654-bc17-a200357fe9ea">
 
-![Sample image](insert__image_url_here)
+
+### Levels page
+<img width="950" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/c52a033b-08ef-4be8-97c6-9144eeb59fd8">
+
+
+### Questions page
+<img width="950" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/560ec98f-6319-4e02-9528-f0c73278903d">
+
+
+### Feedback page
+<img width="950" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/91a7e8c5-e9b1-45ba-812b-47c20a2316fc">
+
+
 
 ## Contributions
 
