@@ -198,10 +198,6 @@ const Interview = () => {
             <div className="box-sizing-border-box mb-4 bg-[#849fd2] text-start p-6 w-[90%] rounded-xl shadow-md">
             <h2 className="text-white text-center text-xl sm:text-3xl md:text-4xl font-bold">Feedback</h2>
                 {provideFeedback.length === 0 ? (
-            // <img                    className="w-[100%] p-10 mx-auto"
-            //         src="https://media4.giphy.com/media/1ibfRD75ZMtDG/giphy.gif?cid=ecf05e477c55u48nj1fj9vi0pzoukfulon52ugdwqbwvllzo&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-            //         alt=""
-            // />
             <Loader/>
                 ) : (
             <div className="text-white">
