@@ -22,7 +22,7 @@
 
 ## Overview
 
-Welcome to <b>Prepare By Pro</b> – Your Ultimate Interview Success Partner!
+Welcome to <b>PrepareBePro</b> – Your Ultimate Interview Success Partner!
 
 Embark on a journey to ace your interviews with Prepare By Pro, a comprehensive project dedicated to elevating your interview preparation experience. Whether you're gearing up for technical interviews in software engineering or aiming to excel in IT positions, our platform is your go-to resource for a wealth of interview questions and invaluable feedback to sharpen your skills.
 
@@ -105,7 +105,7 @@ Your feedback is invaluable to us! If you have suggestions, encounter issues, or
 
 ## License
 
-This project is licensed under the MIT License. See the [ByteWave](LICENSE) file for details.
+This project is licensed under the MIT License. See the [PrepareBeBro](LICENSE) file for details.
 
 ## Request  🤗
 <div>
@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the [ByteWave](LICENSE) file
   
  ## Feedback / Contributing 🤝
  > Contributions are always welcome! Just raise an issue, and we will discuss it.
-  > If you have any feedback, please reach out to us <a href="mailto: anburaj2203@gmail.com">prepareByPro</a>
+  > If you have any feedback, please reach out to us <a href="mailto: anburaj2203@gmail.com">prepareBePro</a>
 
 ---
 
