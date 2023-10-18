@@ -1,7 +1,7 @@
 
 <div align="center">
        
- <h2>Prepare By Pro - Your Path to Interview Success</h2>
+ <h2>PrepareBePro - Your Path to Interview Success</h2>
 
  </div>
  
@@ -9,7 +9,7 @@
 
 <div align="center">
 
- <h3>logo :"PrepareByPro"</h3>
+ <h3>logo :"PrepareBePro"</h3>
 
 <img width="200" height="100" alt="Screenshot_110" src="https://github.com/Anburaj07/ByteWave/assets/123880321/2a338dc9-f204-4d3e-bf7b-dfe977c65122"> 
 <!-- ![logo]() -->
