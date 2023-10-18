@@ -49,7 +49,7 @@ Navigate our user-friendly interface effortlessly, where you'll find a treasure 
 - Tailwind CSS
 - Core Java
 - Spring Boot
-- Open API
+- Open AI
 
 ## Getting Started
 
